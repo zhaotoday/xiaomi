@@ -4,3 +4,4 @@
 #### 开源
 - [mi-service-lite](https://github.com/idootop/mi-service-lite)
 - [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
+- [XiaoMusic](https://xdocs.hanxi.cc/)
